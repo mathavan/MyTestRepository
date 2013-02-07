@@ -8,7 +8,7 @@ public class App {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		System.out.println("I am having lots of fun");
+		System.out.println("I am having lots of fun!!!");
 		System.out.println("This is a new piece of functionality");
 	}
 
