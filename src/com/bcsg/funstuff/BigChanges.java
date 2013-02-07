@@ -9,5 +9,7 @@ package com.bcsg.funstuff;
  *
  */
 public class BigChanges {
-
+	public static void doSomething() {
+		System.out.println("I can't believe how functional this is");
+	}
 }
