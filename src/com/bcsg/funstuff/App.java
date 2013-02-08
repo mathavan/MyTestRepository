@@ -16,5 +16,9 @@ public class App {
 		System.out.println("Small piece of work for test release -nilesh");
 		System.out.println("Small piece of work to conflict test release -nilesh");
 	}
+	
+	public static void someMethod() {
+		System.oout.println("This method was added whilst someone else made a change.");
+	}
 
 }
